@@ -1,9 +1,9 @@
-=========================================
-Lista de Softwares para Windows em 2015.1
-=========================================
+==================================================================
+Lista de Softwares para Windows no Laboratório IFRN/PAR em 2015.1
+==================================================================
 
-Máquina virtual
-----------------
+Virtualização
+-----------------
 
 * VirtualBox https://www.virtualbox.org/wiki/Downloads
 
@@ -23,6 +23,7 @@ Linguagem de Programação
 --------------------------
 
 * Python 3.4 https://www.python.org/ftp/python/3.4.3/python-3.4.3.amd64.msi
+* Ruby on Rails 2.1 for Windows http://www.railsinstaller.org/pt-BR
 
 Informática Básica
 --------------------
@@ -48,6 +49,7 @@ Desenvolvimento
 * Liliclipse 
 * Wing IDE https://wingware.com/downloads/wingide-101
 * Pyscripter http://sourceforge.net/projects/pyscripter/
+* Aptana
 
 Rede
 ----
@@ -55,3 +57,9 @@ Rede
 * Wireshark
 * Putty 
 * VNC Viewer
+
+Banco de Dados
+--------------
+
+* PGAdmin http://www.pgadmin.org/download/
+* MySQL Workbench https://www.mysql.com/products/workbench/
