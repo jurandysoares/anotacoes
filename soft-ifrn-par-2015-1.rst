@@ -63,3 +63,9 @@ Banco de Dados
 
 * PGAdmin http://www.pgadmin.org/download/
 * MySQL Workbench https://www.mysql.com/products/workbench/
+
+Bibliotecas de Python
+---------------------
+
+* Easygui
+* 
