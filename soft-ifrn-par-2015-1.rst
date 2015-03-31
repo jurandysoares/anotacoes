@@ -12,6 +12,7 @@ Virtualização
 -----------------
 
 * VirtualBox https://www.virtualbox.org/wiki/Downloads
+* Vagrant http://www.vagrantup.com/downloads
 
 Terminal
 --------
@@ -44,6 +45,7 @@ Editor de Texto
 
 * Sublime Text 3 http://www.sublimetext.com/3 Windows 64 bits
 * Notepad++ http://notepad-plus-plus.org/download/
+* Geany http://download.geany.org/geany-1.24_setup.exe
 
 Imagem
 ------
@@ -60,6 +62,7 @@ Desenvolvimento
 * Wing IDE https://wingware.com/downloads/wingide-101
 * Pyscripter http://sourceforge.net/projects/pyscripter/
 * Aptana Studio 3 http://www.aptana.com/products/studio3/download.html
+* Dev C++ http://www.bloodshed.net/devcpp.html
 
 Rede
 ----
@@ -98,3 +101,9 @@ Bibliotecas de Python
 * xlutils (No prompt do DOS: pip install xlutils)
 * openpyxl (No prompt do DOS: pip install openpyxl)
 * Soya 3D https://pypi.python.org/pypi/Soya3/
+
+Variedades
+----------
+
+* Google Earth https://www.google.com/earth/
+* Geogebra https://www.geogebra.org/download
