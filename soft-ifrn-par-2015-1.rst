@@ -2,6 +2,12 @@
 Lista de Softwares para Windows no Laboratório IFRN/PAR em 2015.1
 ==================================================================
 
+Componente do Windows
+---------------------
+
+  * Telnet
+  * SNMP
+
 Virtualização
 -----------------
 
@@ -61,6 +67,7 @@ Rede
 * Putty Installer http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.64-installer.exe
 * VNC Viewer 64 bits for Windows http://www.realvnc.com/download/viewer/
 * WinSCP Installation Package http://winscp.net/eng/download.php
+* PacketTracer http://labcisco.blogspot.com.br/p/laboratorios.html
 
 Banco de Dados
 --------------
@@ -78,6 +85,14 @@ Bibliotecas de Python
 * Matplotlib (No prompt do DOS: pip install matplotlib)
 * NetworkX (No prompt do DOS: pip install networkx)
 * PySerial (No prompt do DOS: pip install pyserial)
-* PyODBC (No prompt do DOS: pip install ipython)
+* PyODBC (No prompt do DOS: pip install pyodbc)
 * IPython (No prompt do DOS: pip install ipython) 
 * Pandas https://pypi.python.org/pypi/pandas/0.16.0/#downloads
+* docutils (No prompt do DOS: pip install docutils)
+* sphinx (No prompt do DOS: pip install sphinx)
+* django (No prompt do DOS: pip install django)
+* rst2pdf (No prompt do DOS: pip install rst2pdf)
+* xlrd (No prompt do DOS: pip install xlrd)
+* xlwt (No prompt do DOS: pip install xlwt)
+* xlutils (No prompt do DOS: pip install xlutils)
+* openpyxl (No prompt do DOS: pip install openpyxl)
