@@ -51,6 +51,7 @@ Imagem
 * GIMP http://www.gimp.org/downloads/
 * Inkscape 64 bits https://inkscape.org/pt/download/windows/
 * Graphviz http://www.graphviz.org/Download_windows.php
+* Blender 3D http://www.blender.org/features/past-releases/2-72/
 
 Desenvolvimento
 ---------------
@@ -96,3 +97,4 @@ Bibliotecas de Python
 * xlwt (No prompt do DOS: pip install xlwt)
 * xlutils (No prompt do DOS: pip install xlutils)
 * openpyxl (No prompt do DOS: pip install openpyxl)
+* Soya 3D https://pypi.python.org/pypi/Soya3/
