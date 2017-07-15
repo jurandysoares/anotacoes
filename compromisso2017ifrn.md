@@ -8,7 +8,7 @@ em que medida a sua atuação como profissional da Educação contribui para o a
 ## Minha resposta
 No tocante à formação humana integral, procuro desenvolver atividades no entorno de onde 
 moro e estimulo meus alunos a fazerem o mesmo, seja por meio de projeto de extensão ou por meio de
-prática profissional que envolva e melhore alguma aspecto da comunidade onde vive. 
+prática profissional que envolva e melhore algum aspecto da comunidade onde vivem. 
 No tocante à produção e socialização de conhecimento, procuro disponibilizar material em 
 repositórios públicos <https://github.com/jurandysoares?tab=repositories> ou 
 em repositórios internos do IFRN que propiciem uma escrita colaborativa <https://devops.gitlab.ifrn.edu.br/jurandy.soares/>, 
